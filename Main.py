@@ -1,5 +1,7 @@
 # Nawfal Cherkaoui 6/5/22
 
+#This script is a test of Python 3 and Selenium. It automatically opens and fills out a Google form with example data.
+
 # Import Module
 from selenium import webdriver
 from selenium.webdriver.common.by import By
