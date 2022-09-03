@@ -1,6 +1,6 @@
 # Nawfal Cherkaoui 6/5/22
 
-#This script is a test of Python 3 and Selenium. It automatically opens and fills out a Google form with example data.
+# This script is a test of Python 3 and Selenium. It automatically opens and fills out a Google form with example data.
 
 # Import Module
 from selenium import webdriver
@@ -21,8 +21,7 @@ def main():
 
     submit(driver)
 
-    # closes the window
-    driver.close()
+    driver.close() # closes the window
 
 # Returns a list of all textboxes on the form
 def locateTextBoxes(driver):
