@@ -1,5 +1,5 @@
 # Purpose
-This script is a test of Python 3 and Selenium. Automatically opens and fills out a google form with example data.
+This script is a test of Python 3 and Selenium. Automatically opens and fills out a Google form with example data.
 
 # Requirements
 1. Install Python (v3.7+)
