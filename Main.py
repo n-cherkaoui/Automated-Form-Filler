@@ -1,4 +1,4 @@
-# Nawfal Cherkaoui 6/5/22
+# Nawfal Cherkaoui 6/4/22
 
 # This script is a test of Python 3 and Selenium. It automatically opens and fills out a Google form with example data.
 
